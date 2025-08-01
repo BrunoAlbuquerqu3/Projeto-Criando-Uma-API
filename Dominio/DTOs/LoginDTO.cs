@@ -1,5 +1,5 @@
 
-namespace MinimalApi.DTOs;
+namespace MinimalApi.DTOs
 {
     public class LoginDTO
     {
